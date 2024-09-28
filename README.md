@@ -8,6 +8,9 @@ The University of Cincinnati Event Planner allows university staff to create, ma
 
 Attached is a link to the [storyboard](docs/Storyboard.pdf)
 
+## KanBan Board
+https://bearcat-event-planner.atlassian.net/jira/software/projects/SCRUM/list
+
 ## Requirements
 
 * As a UC Staff Member, I want to create an event, so that I can share the event with students and manage it through the platform.
